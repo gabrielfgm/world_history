@@ -1,0 +1,20 @@
+<style type="text/css">
+.white { color: white; }
+.large { font-size: 130% }
+.Large { font-size: 150% }
+.small { font-size: 70% }
+.Small { font-size: 50% }
+.pull-right40{ 
+  float: right;
+  width: 40%;}
+.pull-left40{
+  float: left;
+  width: 40%;
+}
+.pull-left-border{
+  float: left;
+  width: 49%;
+  border-right-width: 1px;
+  border-right-style: solid;
+  padding-right: 2px;}
+</style>
